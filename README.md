@@ -1,5 +1,5 @@
 ## Hi, My name is Josh
-<img src= "joshua(3).jpeg">
+<img src= "joshua.jpeg">
 I am a software engineer with Resilient Coders and the core of my work has always been about empowering people. I’ve worked with (and for) low-income people, artists, musicians, and other organizers all trying to figure out how to make the commonwealth of Pennsylvania more accessible for us all. I’m fascinated by the potential that tech has to enrich us and advance a narrative that connects us across identities.
 
  <p></p>
